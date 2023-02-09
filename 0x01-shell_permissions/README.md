@@ -13,3 +13,5 @@ Script that sets mode of the file hello the same as olleh's mode
 Script that adds execute permission to all current directory for the owner,group and all other users.Regular files should not be changed
 Script that creates a directory called my_dir with permissions 751 in working directory
 Script that changes the group owner to school for the file hello
+Script that changes owner to vincent and the group to staff for all files and directories in working directory
+Script that changes owner and the group owner of _hello to vincent and staff. _hello is in a working directory and is a symbolic link
