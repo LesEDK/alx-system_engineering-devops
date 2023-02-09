@@ -15,3 +15,4 @@ Script that creates a directory called my_dir with permissions 751 in working di
 Script that changes the group owner to school for the file hello
 Script that changes owner to vincent and the group to staff for all files and directories in working directory
 Script that changes owner and the group owner of _hello to vincent and staff. _hello is in a working directory and is a symbolic link
+Script that changes owner of file hello to betty only if it is owned by user guillaume
