@@ -3,3 +3,4 @@ Script for pathway of current working directory
 Creating script to display content list of your current directory
 Script that changes working directory to the user's home directory
 Script to display current directory contents in long format
+Script to display current directory contents including hidden files in long formats
