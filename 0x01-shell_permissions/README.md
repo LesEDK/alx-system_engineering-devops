@@ -8,3 +8,5 @@ Script that adds execute permission to the owner of the file hello
 Script that adds execute permission to the owner,group owner and read permission to other users, to the file hello
 Script that adds execution permission to the owner,group owner and other users to the file hello
 Script that sets permissions to the hello file, owner and group with no permissions at all and other users with all the permissions
+Script that sets mode of the file hello to 753
+Script that sets mode of the file hello the same as olleh's mode
