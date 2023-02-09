@@ -9,3 +9,4 @@ Script that creates diretory my_first_directory in /tmp/ directory
 Script to move file betty from /tmp/ to /tmp/my_first_directory
 Script to delete file betty in /tmp/my_first_directory
 Script tp delete directory my_first_directory in /tmp directory
+Script that changes working directory to the previous one
