@@ -16,3 +16,4 @@ Create a symbolic link to bin/ls named _ls_ ,should be created in current workin
 Script that moves all files beginning with an uppercase letter to directory /tmp/u
 Script that deletes all files in the current working directory that end with character ~
 Script that creates the directories welcome/, welcome/to and welcome/to/school in current directory
+Script that list all files and directories of current directory, separated by commas, end every directory name with slash, show . entries
