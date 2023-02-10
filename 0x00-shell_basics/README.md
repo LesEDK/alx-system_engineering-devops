@@ -13,3 +13,4 @@ Script that changes working directory to the previous one
 Script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 Script that prints type of file
 Create a symbolic link to bin/ls named _ls_ ,should be created in current working directory
+Script that moves all files beginning with an uppercase letter to directory /tmp/u
