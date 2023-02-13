@@ -16,3 +16,5 @@ Script that display line containing the pattern "root" from the file /etc/passwd
 Script that display lines containing the patter "root"  and 3 lines after the in file /etc/passwd
 Script that displays all the lines in the file /etc/passwd that do not contain the pattern "bin"
 Script that displays all lines of the file /etc/ssh/sshd_config starting with a letter.Include capital letters as well
+Script that replaces all characters A and c from input to Z and e respectively
+Script that removes all letters c and C from input
