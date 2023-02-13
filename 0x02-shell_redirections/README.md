@@ -11,3 +11,4 @@ Script that duplicates the last ine of the file iacta
 Script that deletes all the regular files(Not directories) with a .js extension that are present directory and all its subfolders
 Script that counts the number of directories and sub-directories in the current directory,hidden directories must be counted,current and parent directories should not be taken into account
 Script that displays 10 newest files in the current directory, one file per line,sorted from newest to oldest
+Script that takes of words as inputs and prtints only words that appear exactly once, Words should be sorted
