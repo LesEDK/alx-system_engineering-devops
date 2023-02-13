@@ -5,3 +5,5 @@ Script that displays the content of /etc/passwd and /etc/hosts
 Script that displays the last 10 lines of /etc/passwd 
 Script that displays the first 10 lines of /etc/passwd
 Script that displays the third line of the file iacta
+
+Script that that writes into file ls_cwd_content the result of the command ls -la
