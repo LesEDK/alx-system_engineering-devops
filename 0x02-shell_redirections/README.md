@@ -9,3 +9,4 @@ Script that displays the third line of the file iacta
 Script that that writes into file ls_cwd_content the result of the command ls -la
 Script that duplicates the last ine of the file iacta
 Script that deletes all the regular files(Not directories) with a .js extension that are present directory and all its subfolders
+Script that counts the number of directories and sub-directories in the current directory,hidden directories must be counted,current and parent directories should not be taken into account
