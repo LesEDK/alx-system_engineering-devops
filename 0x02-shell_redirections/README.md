@@ -15,3 +15,4 @@ Script that takes of words as inputs and prtints only words that appear exactly 
 Script that display line containing the pattern "root" from the file /etc/passwdDisplay the number of lines that contain pattern "bin" in the file /etc/passwd
 Script that display lines containing the patter "root"  and 3 lines after the in file /etc/passwd
 Script that displays all the lines in the file /etc/passwd that do not contain the pattern "bin"
+Script that displays all lines of the file /etc/ssh/sshd_config starting with a letter.Include capital letters as well
