@@ -12,3 +12,4 @@ Script that deletes all the regular files(Not directories) with a .js extension 
 Script that counts the number of directories and sub-directories in the current directory,hidden directories must be counted,current and parent directories should not be taken into account
 Script that displays 10 newest files in the current directory, one file per line,sorted from newest to oldest
 Script that takes of words as inputs and prtints only words that appear exactly once, Words should be sorted
+Script that display line containing the pattern "root" from the file /etc/passwd
