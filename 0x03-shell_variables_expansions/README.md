@@ -10,3 +10,4 @@ Script that creates a new global variable with name BEST and value "School"
 Script that prints the result of the addition of 128 with value stored in the environmental variable TRUEKNOWLEDGE followed by a new line
 Script that prints the resut of POWER divided BY DIVIDE, followed by a new line
 Script that displays result of BREATH to the power LOVE(They are environmental variables)
+Script that converts a number from base 2 to base 10, number in base 2 is stored in the environmental variable BINARY
