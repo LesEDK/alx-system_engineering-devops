@@ -8,3 +8,4 @@ Script that lists all variables and environment variables and functions
 Script that creates a new local variable BEST with value School
 Script that creates a new global variable with name BEST and value "School"
 Script that prints the result of the addition of 128 with value stored in the environmental variable TRUEKNOWLEDGE followed by a new line
+Script that prints the resut of POWER divided BY DIVIDE, followed by a new line
