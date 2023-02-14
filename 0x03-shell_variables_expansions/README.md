@@ -11,3 +11,5 @@ Script that prints the result of the addition of 128 with value stored in the en
 Script that prints the resut of POWER divided BY DIVIDE, followed by a new line
 Script that displays result of BREATH to the power LOVE(They are environmental variables)
 Script that converts a number from base 2 to base 10, number in base 2 is stored in the environmental variable BINARY
+Script that prints all possible combinations of two letters,except oo, letters a-z one combination per line
+Script that prints a number with two decimal places, followed by a new line.Number will be stored in environmental variable NUM
