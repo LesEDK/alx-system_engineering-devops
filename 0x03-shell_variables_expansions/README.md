@@ -6,3 +6,4 @@ Create script that counts the number of directories in the PATH
 Script that lists environment variables
 Script that lists all variables and environment variables and functions
 Script that creates a new local variable BEST with value School
+Script that creates a new global variable with name BEST and vale School
