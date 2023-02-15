@@ -20,3 +20,4 @@ Script that replaces all characters A and c from input to Z and e respectively
 Script that removes all letters c and C from input
 Script that reverses its input
 Script that displays all users and their home directories, sorted by users based on the /etc/passwd file
+Script that writes command that finds all the emmpty files and directories in the current directory and all sub-directories only the names of the files and directories shold be displayed and hidden files should be listed
